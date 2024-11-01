@@ -1,0 +1,82 @@
+# Copyright (C) 2016 Wadvisor Plugin
+# This file is distributed under the same license as the Wadvisor Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wadvisor Plugin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-"
+"wadvisor\n"
+"POT-Creation-Date: 2016-06-28 16:49+0200\n"
+"PO-Revision-Date: 2016-06-28 17:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: widget-wadvisor.php:50
+msgid "Wadvisor page widget"
+msgstr "Wadvisor widget page"
+
+#: widget-wadvisor.php:51
+msgid "Generates a Wadvisor Page feed in your widget area."
+msgstr ""
+"Permet d'inclure la liste des dernières questions posées sur votre "
+"page Wadvisor."
+
+#: widget-wadvisor.php:161
+msgid "Wadvisor Widget"
+msgstr "Widget Wadvisor"
+
+#: widget-wadvisor.php:200
+msgid "Title:"
+msgstr "Titre :"
+
+#: widget-wadvisor.php:204
+msgid "Page id*:"
+msgstr "ID de la page Wadvisor* :"
+
+#: widget-wadvisor.php:208
+msgid "Default language:"
+msgstr "Langue par défaut :"
+
+#: widget-wadvisor.php:210
+msgid "Auto"
+msgstr "Auto"
+
+#: widget-wadvisor.php:211
+msgid "French (France)"
+msgstr "Français (France)"
+
+#: widget-wadvisor.php:212
+msgid "English (US)"
+msgstr "Anglais (US)"
+
+#: widget-wadvisor.php:213
+msgid "English (GB)"
+msgstr "Anglais (GB)"
+
+#: widget-wadvisor.php:217
+msgid "Show covers:"
+msgstr "Afficher les covers :"
+
+#: widget-wadvisor.php:221
+msgid "Show followers:"
+msgstr "Afficher les followers :"
+
+#: widget-wadvisor.php:225
+msgid "Show questions:"
+msgstr "Afficher les questions :"
+
+#: widget-wadvisor.php:229
+msgid "Questions limit:"
+msgstr "Nombre maximum de questions :"
+
+#: widget-wadvisor.php:233
+msgid "Questions max height:"
+msgstr "Hauteur maximum de la liste de questions (en pixels) :"
